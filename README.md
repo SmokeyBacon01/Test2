@@ -1,3 +1,7 @@
 # Test2
 trying to import project
-why is it compiling once but not again T-T
+needs raylib to run, not sure how to import it into github though
+
+Pongin' it
+Multiball and AI works
+Powerups still needs work.
